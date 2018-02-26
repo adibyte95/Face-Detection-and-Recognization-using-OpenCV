@@ -1,11 +1,10 @@
 import cv2
 import numpy as np 
-
 face_cascade = cv2.CascadeClassifier('harcascade_frontalface_default.xml')
 counter =0
-recognizer = cv2.face.createLBPHFaceRecognizer()
+recognizer = cv2.face.LBPHFaceRecognizer_create()
 #loading the training data
-recognizer.load('trainingdata.yml')
+recognizer.read('trainingdata.yml')
 font = cv2.FONT_HERSHEY_COMPLEX_SMALL
 cap = cv2.VideoCapture(1)
 while(True):
