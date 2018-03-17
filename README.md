@@ -17,4 +17,9 @@
   finally after the recognizer is trained dectector.py detects the face of the person and makes a rectangular box around the face of the person and also shows his corresponding id 
 </div>
 <br/>
-<a href = 'https://github.com/adibyte95/image_classification-using-open-cv/blob/master/img.png'>check out image here</a>
+
+here is a snapshot of the detected images 
+<br/>
+<img src="https://github.com/adibyte95/Face-Detection-using-OpenCV/blob/master/images/image1.png.png" alt="my face detected">
+<br/>
+<img src="https://github.com/adibyte95/Face-Detection-using-OpenCV/blob/master/images/obama.png" alt="obama face deteced ">
