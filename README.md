@@ -20,6 +20,6 @@
 
 here is a snapshot of the detected images 
 <br/>
-<img src="https://github.com/adibyte95/Face-Detection-using-OpenCV/blob/master/images/image1.png.png" alt="my face detected">
+<img src="https://github.com/adibyte95/Face-Detection-using-OpenCV/blob/master/images/image1.png" alt="my face detected">
 <br/>
 <img src="https://github.com/adibyte95/Face-Detection-using-OpenCV/blob/master/images/obama.png" alt="obama face deteced ">
