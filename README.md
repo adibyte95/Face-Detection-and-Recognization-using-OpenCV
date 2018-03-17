@@ -18,7 +18,7 @@
 </div>
 <br/>
 
-here is a snapshot of the detected images 
+<h2>here is a snapshot of the detected images </h2>
 <br/>
 <img src="https://github.com/adibyte95/Face-Detection-using-OpenCV/blob/master/images/image1.png" alt="my face detected">
 <br/>
