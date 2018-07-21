@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.io/adibyte95/Face-Detection-and-Recognization-using-OpenCV.svg)](http://hits.dwyl.io/adibyte95/Face-Detection-and-Recognization-using-OpenCV)
 # face detection using Open CV
 
 <h3>files included are :</h3><br/>
